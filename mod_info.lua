@@ -9,8 +9,3 @@ copyright = "MIT (do whatever you want)"
 uid = "Selection-Sounds-FF-v1"
 url = "https://github.com/FreadyFishFAF/SelectionSounds"
 ui_only = true
-
--- TODO
--- - Add UI to select categories from
--- - Lower volume of selection sounds (possible?)
--- - Change the sounds
